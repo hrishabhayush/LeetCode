@@ -10,11 +10,6 @@ class Solution {
         //     }
         // }
         // return ansSet;
-        // Time complexity: O(n) and Space complexity: O(1)
-        
-        // Need a solution with better time complexity
-        // An approach of Hashamps seems reasonable here, because we then just look
-        // for the corresponding number that sums up to the target. 
         
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
