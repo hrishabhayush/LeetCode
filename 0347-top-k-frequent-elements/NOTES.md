@@ -1,1 +1,1 @@
-​
+Implemented using the bucket sort algorithm. We first maintain a list of buckets that contain the numbers with respect to the frequency of numbers in the bucket. Then we can start iterating from the end of the buckets to find the most frequent elements as we will see that the buckets contain the elements. Since we are iterating on frequency, we will immediately know which elements occur!​
